@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Applied Computing at KCA University.
-- 🌱 &nbsp; Learning more about Mobile Development, Web Development, Progressive Web Development.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Backend Development, Web Development, Progressive Web Development.
+- ✍️ &nbsp; Exploring Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
